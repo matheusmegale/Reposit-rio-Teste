@@ -6,6 +6,7 @@ int main() {
     cin >> num1 >> num2;
 
     cout << "A soma dos valores eh: " << num1+num2 << endl;
+    cout << "A multiplicacao dos valores eh: " << num1*num2 << endl;
 
     return 0;
 }
